@@ -1,2 +1,4 @@
 bu ilk yazidir 
 bu men yazandir.
+
+men yenede main olaraq deyisilik apardim
